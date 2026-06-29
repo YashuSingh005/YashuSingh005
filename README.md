@@ -44,13 +44,9 @@ I believe the best way to learn is by building real projects and understanding h
 
 ## 📊 GitHub Stats
 
-<p align="center">
-## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YashuSingh005&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashuSingh005&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+  <img src="https://streak-stats.demolab.com?user=YashuSingh005&theme=github-dark&hide_border=true" />
 </p>
 
 ---
