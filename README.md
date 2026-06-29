@@ -42,13 +42,11 @@ I believe the best way to learn is by building real projects and understanding h
 
 ---
 
-## 📊 GitHub Stats
-
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YashuSingh005&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashuSingh005&theme=github-dark&hide_border=true" />
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
