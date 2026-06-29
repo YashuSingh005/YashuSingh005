@@ -59,21 +59,7 @@ I believe the best way to learn is by building real projects and understanding h
 
 ---
 
-## 🎯 Current Focus
 
-```text
-🤖 AI Engineering
-████████████░░░░░░░░
-
-⚡ Full Stack Development
-██████████░░░░░░░░░░
-
-🧠 Data Structures & Algorithms
-████████░░░░░░░░░░░░
-
-🚀 AI Agents
-███████░░░░░░░░░░░░░
-```
 
 ---
 
