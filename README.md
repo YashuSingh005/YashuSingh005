@@ -1,51 +1,38 @@
 <div align="center">
 
-  <!-- VS Code Terminal Window Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=header&text=VS%20Code%20Integrated%20Terminal&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" />
+```text
+ ╔══════════════════════════════════════════════════════════════════════════════╗
+ ║  __   __            _           ____  _                 _     _             ║
+ ║  \ \ / /_ _ ___ | |_ _   _  / ___|(_)_ __   __ _| |__  | |            ║
+ ║   \ V / _` / __|| __| | | | \___ \| | '_ \ / _` | '_ \ | |            ║
+ ║    | | (_| \__ \| |_| |_| |  ___) | | | | | (_| | | | ||_|            ║
+ ║    |_|\__,_|___/ \__|\__,_| |____/|_|_| |_|\__, |_| |_|(_)            ║
+ ║                                            |___/                      ║
+ ╚══════════════════════════════════════════════════════════════════════════════╝
 
-</div>
 
-<!-- Real VS Code Window Frame -->
-<table align="center" width="100%">
-<tr>
-<td bgcolor="#1e1e1e">
+USER        : Yashu (YashuSingh005)
+ROLE        : Full-Stack & AI Systems Engineer
+SHELL       : /bin/bash (VS Code Integrated Terminal)
+STATUS      : 🟢 Active — Building Real-time Apps & AI Agents
+LOCATION    : Remote / Global
 
-<p align="left">
-  <span style="color: #ff5f56;">🔴</span>
-  <span style="color: #ffbd2e;">🟡</span>
-  <span style="color: #27c93f;">🟢</span>
-  &nbsp;&nbsp;&nbsp;<b>bash — yashu@dev-workspace: ~/projects/ai-bot (node)</b>
-</p>
+{
+  "languages": ["JavaScript (ES6+)", "TypeScript", "Python", "HTML5", "CSS3"],
+  "frameworks": ["React.js", "Node.js", "Express.js", "Tailwind CSS"],
+  "cloud_devops": ["AWS App Runner", "Render", "Docker", "Git / GitHub"],
+  "developer_environment": "VS Code + GitHub Codespaces"
+}
 
-<hr style="border: 0.5px solid #333;" />
+[INFO] Executing: git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset'
 
-<!-- Dynamic Animated Terminal Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00FF66&width=800&height=180&lines=yashu%40vscode-workspace%3A~%2Fapp%24%20npm%20run%20dev;%5Bvite%5D%20dev%20server%20running%20at%20http%3A%2F%2Flocalhost%3A5173%2F;yashu%40vscode-workspace%3A~%2Fapp%24%20cat%20about_me.sh;System%3A%20Full-Stack%20%26%20AI%20Engineer%20%7C%20Building%20scalable%20apps;yashu%40vscode-workspace%3A~%2Fapp%24%20git%20status;On%20branch%20main%20--%20Everything%20up%20to%20date%20%E2%9C%94" alt="Terminal Output" />
-</a>
+*   8f2a1b9 - (HEAD -> main, origin/main) feat: integrate OpenRouter API with streaming responses
+|\  
+| * 4c9e8d3 - fix: resolve CORS policy and configure public port forwarding
+| * 1a7b3c2 - style: apply modern dark-mode aesthetic to chat UI
+* | 9f8e7d6 - docs: update README with terminal-themed architecture
+|/  
+* 3b2a1c0 - initial commit: setup Node.js Express backend & Vite React frontend
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-  <!-- Terminal Matrix Theme Stats -->
-  <a href="https://github.com/YashuSingh005">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YashuSingh005&show_icons=true&theme=vscode&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashuSingh005&layout=compact&theme=vscode&hide=html,css&hide_border=true" />
-  </a>
-
-</div>
-
----
-
-### 🟩 3D Commit Skyline
-
-<div align="center">
-  <a href="https://github.com/YashuSingh005">
-    <img src="https://github-profile-3d-contrib.puppetcel.workers.dev?username=YashuSingh005&theme=night_view" alt="3D Contribution Graph" />
-  </a>
-</div>
+[yashu@vscode-workspace ~]$ exit
+Connection to yashu-developer-workspace closed.
