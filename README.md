@@ -38,20 +38,7 @@
 - **Full-Stack Contact Form + Admin Panel** — serverless project using Resend, Supabase, and JWT-based auth for a protected admin panel.
 - **DSA in C++** — structured interview prep covering linked lists, cycle detection, two-pointer techniques, and memory management concepts.
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashuSingh005&show_icons=true&theme=tokyonight&hide_border=true" alt="Yashu's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashuSingh005&theme=tokyonight&hide_border=true" alt="Yashu's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashuSingh005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
 
 ### 📫 Let's Connect
 
