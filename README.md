@@ -17,17 +17,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashuSingh005&hide=title,issues,prs&theme=dark&hide_border=true&show_icons=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashuSingh005&theme=dark&hide_border=true&hide=Jupyter%20Notebook&show_icons=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashuSingh005&theme=dark&hide_border=true&border_radius=8" alt="GitHub streak" />
-</p>
-
----
-
 ## 👋 Introduction
 
 **Yashu Singh** — a Computer Science Engineering student interested in AI Engineering, AI Agents and Agentic Systems, LLM Applications, Backend Development, Software Engineering, Data Structures & Algorithms, and Developer Tools & Automation.
@@ -124,15 +113,6 @@ Structured C++ implementations covering linked lists, cycle detection, two-point
 
 - `C++` · `DSA`
 - Repo: https://github.com/YashuSingh005/DSA
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashuSingh005&hide=title,issues,prs&theme=dark&hide_border=true" alt="Yashu's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashuSingh005&theme=dark&hide_border=true&hide=Jupyter%20Notebook" alt="Top languages" />
-</p>
 
 ---
 
