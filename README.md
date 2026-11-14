@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Science Engineering student</b> · Building AI agents, LLM applications and backend systems<br>
-  <i>Curious about how software works — from the CPU up to the model.</i>
+  <i>Everything can be done by model — just believe it.</i>
 </p>
 
 <p align="center">
