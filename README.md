@@ -10,10 +10,6 @@
   <a href="https://www.linkedin.com/in/yashu-singh-b654793a9/"><b>LinkedIn</b></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Yashu+Singh;AI+Engineering+%26+Agentic+Systems;Backend+Development+%26+DSA;Building+YASHUCODE" alt="Typing SVG" />
-</p>
-
 ---
 
 ## Introduction
@@ -34,22 +30,14 @@ I enjoy peeling back the layers of a system to understand how it actually works,
 
 ## Current Focus
 
-<details>
-<summary><b>What I'm working on right now</b></summary>
-
 - **YASHUCODE** — building my own AI agent, exploring agentic architecture from the ground up.
 - **LLMs & agent patterns** — tool calling, the Model Context Protocol (MCP), retrieval-augmented generation, and how agents plan and act.
 - **Backend engineering** — API design, server-side architecture, and shipping reliable services.
 - **DSA** — sharpening problem-solving with linked lists, two-pointer techniques, cycle detection, and memory management in C++.
 
-</details>
-
 ---
 
 ## Technical Stack
-
-<details>
-<summary><b>Expand to view my tech stack</b></summary>
 
 **Languages**
 `C++` · `Python` · `JavaScript` · `TypeScript` · `HTML` · `CSS`
@@ -71,8 +59,6 @@ I enjoy peeling back the layers of a system to understand how it actually works,
 
 > I list a technology here when I have used it in a project. Items marked "exploring" are actively being learned.
 
-</details>
-
 ---
 
 ## Core Interests
@@ -89,52 +75,37 @@ I enjoy peeling back the layers of a system to understand how it actually works,
 
 I prioritize originality, technical depth and practical value. Below are the projects I'm most proud of.
 
-<details>
-<summary><b>hi-its-yashu — Personal AI engineering agent</b></summary>
+### hi-its-yashu — Personal AI engineering agent
 
 A personal AI agent reachable from your terminal (CLI + agent mode) or browser (Next.js web chat), backed by a single OpenRouter API key. Agent mode supports file operations, shell commands, web search and an approval flow before changes are applied, with experimental vector memory.
 - `TypeScript` · `Bun` · `Node.js` · `Next.js 14` · `React` · `Tailwind` · `OpenRouter`
 - Repo: https://github.com/YashuSingh005/experimenting
 - Live: https://experimenting-iota.vercel.app
 
-</details>
-
-<details>
-<summary><b>AI-Educational-Assistant — AI-powered learning companion</b></summary>
+### AI-Educational-Assistant — AI-powered learning companion
 
 A full-stack study assistant with Chat, Learn (beginner/intermediate/advanced) and Quiz modes. Responses stream to the frontend via Server-Sent Events, models are selectable through OpenRouter, and Markdown/code is rendered cleanly.
 - `React 18` · `Vite` · `Tailwind CSS` · `Node.js` · `Express` · `OpenRouter API` · `SSE` · `Docker` · `Vercel`
 - Repo: https://github.com/YashuSingh005/AI-Educational-Assistant
 - Live: https://deepanshu-xi.vercel.app
 
-</details>
-
-<details>
-<summary><b>openclaw-ai — Digital content management framework</b></summary>
+### openclaw-ai — Digital content management framework
 
 An open-source framework for creating, managing and sharing digital assets. Includes CRUD operations, tagging and categorization, real-time collaboration, plugin extensibility, third-party integrations and security-focused storage.
 - `TypeScript`
 - Repo: https://github.com/YashuSingh005/openclaw-ai
 
-</details>
-
-<details>
-<summary><b>Library-management-CPP — Console library system (C++)</b></summary>
+### Library-management-CPP — Console library system (C++)
 
 A file-handling-based Library Management System in C++. Add, view, search, issue and return books; records persist to `library.txt` using temporary-file update techniques.
 - `C++` · `File Handling`
 - Repo: https://github.com/YashuSingh005/Library-management-CPP
 
-</details>
-
-<details>
-<summary><b>DSA — Data structures & interview prep (C++)</b></summary>
+### DSA — Data structures & interview prep (C++)
 
 Structured C++ implementations covering linked lists, cycle detection, two-pointer techniques and core memory-management concepts, built as part of my interview preparation.
 - `C++` · `DSA`
 - Repo: https://github.com/YashuSingh005/DSA
-
-</details>
 
 ---
 
