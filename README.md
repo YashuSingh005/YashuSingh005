@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YashuSingh005"><b>GitHub</b></a> ·
-  <a href="https://www.linkedin.com/in/yashu-singh-b654793a9/"><b>LinkedIn</b></a>
+  <a href="https://github.com/YashuSingh005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/yashu-singh-b654793a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-## Introduction
+## 👋 Introduction
 
 **Yashu Singh** — a Computer Science Engineering student interested in AI Engineering, AI Agents and Agentic Systems, LLM Applications, Backend Development, Software Engineering, Data Structures & Algorithms, and Developer Tools & Automation.
 
@@ -20,7 +20,7 @@ I enjoy peeling back the layers of a system to understand how it actually works,
 
 ---
 
-## About Me
+## 📖 About Me
 
 - 🎓 **Third-year CSE student** — building a foundation in computer science while exploring the intersection of software engineering and AI.
 - 🧠 **Internally curious** — I care about how software and AI systems work under the hood, not just how to call their APIs.
@@ -28,7 +28,7 @@ I enjoy peeling back the layers of a system to understand how it actually works,
 
 ---
 
-## Current Focus
+## 🔭 Current Focus
 
 - **YASHUCODE** — building my own AI agent, exploring agentic architecture from the ground up.
 - **LLMs & agent patterns** — tool calling, the Model Context Protocol (MCP), retrieval-augmented generation, and how agents plan and act.
@@ -37,7 +37,7 @@ I enjoy peeling back the layers of a system to understand how it actually works,
 
 ---
 
-## Technical Stack
+## 🧰 Technical Stack
 
 **Languages**
 `C++` · `Python` · `JavaScript` · `TypeScript` · `HTML` · `CSS`
@@ -61,7 +61,7 @@ I enjoy peeling back the layers of a system to understand how it actually works,
 
 ---
 
-## Core Interests
+## ⚡ Core Interests
 
 - **Agentic AI** — agents that reason, use tools, and act autonomously.
 - **Software Architecture** — designing systems that are maintainable and understandable.
@@ -71,13 +71,14 @@ I enjoy peeling back the layers of a system to understand how it actually works,
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 I prioritize originality, technical depth and practical value. Below are the projects I'm most proud of.
 
 ### hi-its-yashu — Personal AI engineering agent
 
 A personal AI agent reachable from your terminal (CLI + agent mode) or browser (Next.js web chat), backed by a single OpenRouter API key. Agent mode supports file operations, shell commands, web search and an approval flow before changes are applied, with experimental vector memory.
+
 - `TypeScript` · `Bun` · `Node.js` · `Next.js 14` · `React` · `Tailwind` · `OpenRouter`
 - Repo: https://github.com/YashuSingh005/experimenting
 - Live: https://experimenting-iota.vercel.app
@@ -85,6 +86,7 @@ A personal AI agent reachable from your terminal (CLI + agent mode) or browser (
 ### AI-Educational-Assistant — AI-powered learning companion
 
 A full-stack study assistant with Chat, Learn (beginner/intermediate/advanced) and Quiz modes. Responses stream to the frontend via Server-Sent Events, models are selectable through OpenRouter, and Markdown/code is rendered cleanly.
+
 - `React 18` · `Vite` · `Tailwind CSS` · `Node.js` · `Express` · `OpenRouter API` · `SSE` · `Docker` · `Vercel`
 - Repo: https://github.com/YashuSingh005/AI-Educational-Assistant
 - Live: https://deepanshu-xi.vercel.app
@@ -92,24 +94,27 @@ A full-stack study assistant with Chat, Learn (beginner/intermediate/advanced) a
 ### openclaw-ai — Digital content management framework
 
 An open-source framework for creating, managing and sharing digital assets. Includes CRUD operations, tagging and categorization, real-time collaboration, plugin extensibility, third-party integrations and security-focused storage.
+
 - `TypeScript`
 - Repo: https://github.com/YashuSingh005/openclaw-ai
 
 ### Library-management-CPP — Console library system (C++)
 
 A file-handling-based Library Management System in C++. Add, view, search, issue and return books; records persist to `library.txt` using temporary-file update techniques.
+
 - `C++` · `File Handling`
 - Repo: https://github.com/YashuSingh005/Library-management-CPP
 
 ### DSA — Data structures & interview prep (C++)
 
 Structured C++ implementations covering linked lists, cycle detection, two-pointer techniques and core memory-management concepts, built as part of my interview preparation.
+
 - `C++` · `DSA`
 - Repo: https://github.com/YashuSingh005/DSA
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YashuSingh005&hide=title,issues,prs&theme=dark&hide_border=true" alt="Yashu's GitHub stats" />
@@ -118,7 +123,7 @@ Structured C++ implementations covering linked lists, cycle detection, two-point
 
 ---
 
-## Let's Connect
+## 📫 Let's Connect
 
 - **GitHub** — https://github.com/YashuSingh005
 - **LinkedIn** — https://www.linkedin.com/in/yashu-singh-b654793a9/
