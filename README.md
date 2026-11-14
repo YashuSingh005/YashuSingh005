@@ -15,44 +15,34 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Yashu+Singh;AI+Engineering+%26+Agentic+Systems;Backend+Development+%26+DSA;Building+YASHUCODE" alt="Typing SVG" />
 </p>
 
-<hr>
+---
 
-<details>
-<summary><h2>👋 Introduction</h2></summary>
+<h2>👋 Introduction</h2>
 
 **Yashu Singh** — a Computer Science Engineering student interested in AI Engineering, AI Agents and Agentic Systems, LLM Applications, Backend Development, Software Engineering, Data Structures & Algorithms, and Developer Tools & Automation.
 
 I enjoy peeling back the layers of a system to understand how it actually works, then using that understanding to build things that are useful rather than just tutorial projects.
 
-</details>
+---
 
-<hr>
-
-<details>
-<summary><h2>📖 About Me</h2></summary>
+<h2>📖 About Me</h2>
 
 - 🎓 **Third-year CSE student** — building a foundation in computer science while exploring the intersection of software engineering and AI.
 - 🧠 **Internally curious** — I care about how software and AI systems work under the hood, not just how to call their APIs.
 - 🛠️ **Practice over tutorials** — I prefer rebuilding a feature from scratch to copying a tutorial. My GitHub reflects projects I started from an idea, not a step-by-step guide.
 
-</details>
+---
 
-<hr>
-
-<details>
-<summary><h2>🔭 Current Focus</h2></summary>
+<h2>🔭 Current Focus</h2>
 
 - **YASHUCODE** — building my own AI agent, exploring agentic architecture from the ground up.
 - **LLMs & agent patterns** — tool calling, the Model Context Protocol (MCP), retrieval-augmented generation, and how agents plan and act.
 - **Backend engineering** — API design, server-side architecture, and shipping reliable services.
 - **DSA** — sharpening problem-solving with linked lists, two-pointer techniques, cycle detection, and memory management in C++.
 
-</details>
+---
 
-<hr>
-
-<details>
-<summary><h2>🧰 Technical Stack</h2></summary>
+<h2>🧰 Technical Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -71,12 +61,9 @@ I enjoy peeling back the layers of a system to understand how it actually works,
 
 > I list a technology here when I have used it in a project. Items marked "exploring" are actively being learned.
 
-</details>
+---
 
-<hr>
-
-<details>
-<summary><h2>⚡ Core Interests</h2></summary>
+<h2>⚡ Core Interests</h2>
 
 - **Agentic AI** — agents that reason, use tools, and act autonomously.
 - **Software Architecture** — designing systems that are maintainable and understandable.
@@ -84,12 +71,9 @@ I enjoy peeling back the layers of a system to understand how it actually works,
 - **Automation** — removing repetitive work with scripts and agents.
 - **Problem Solving** — algorithms and data structures, especially in C++.
 
-</details>
+---
 
-<hr>
-
-<details>
-<summary><h2>🚀 Featured Projects</h2></summary>
+<h2>🚀 Featured Projects</h2>
 
 I prioritize originality, technical depth and practical value. Below are the projects I'm most proud of.
 
@@ -130,21 +114,16 @@ Structured C++ implementations covering linked lists, cycle detection, two-point
 - `C++` · `DSA`
 - Repo: https://github.com/YashuSingh005/DSA
 
-</details>
+---
 
-<hr>
-
-<details>
-<summary><h2>📫 Let's Connect</h2></summary>
+<h2>📫 Let's Connect</h2>
 
 - **GitHub** — https://github.com/YashuSingh005
 - **LinkedIn** — https://www.linkedin.com/in/yashu-singh-b654793a9/
 
 Open to conversations about AI agents, backend engineering, developer tools and internship opportunities in Software Development, Full-Stack, Backend, and Generative AI.
 
-</details>
-
-<hr>
+---
 
 <p align="center">
   <i>Thanks for stopping by 👋</i>
